@@ -1,0 +1,114 @@
+190.
+SYSTEMS FOR COOLING ELECTRONIC COMPONENTS IN A SEALED COMPUTER CHASSIS
+EP4030264A1 (B1) • 2022-07-20 • QUANTA COMP INC
+Earliest priority: 2021-01-14 • Earliest publication: 2022-07-14
+A computing device includes a sealed computer chassis housing, a heat source, a heat spreader, and a thermal pad. The sealed computer chassis housing defines an interior space and an exterior surface with a heat sink for the interior space. The heat source is disposed within the interior space. The heat spreader includes a plurality of thermally-conductive protrusions coupled to one or more components of the heat source by an intermediate thermally conductive layer. The thermal pad is positioned above and in thermal contact with the heat spreader. The thermal pad is positioned to contact an interior wall of the sealed computer chassis housing opposite to the heat sink.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 11.05.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+30.03.2023 Renewal fee patent year 03
+European patent granted 21.06.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 20.07.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220316
+  Event date: 20.07.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 17.06.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 17.06.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 01.02.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: G06F 1/20 20060101AFI20221223BHEP
+  Event date: 01.02.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: H05K 7/20 20060101ALI20221223BHEP
+  Event date: 01.02.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: F28D 15/02 20060101ALI20221223BHEP
+  Event date: 01.02.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: G06F 1/18 20060101ALN20221223BHEP
+  Event date: 01.02.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: F28D 21/00 20060101ALN20221223BHEP
+  Event date: 01.02.2023  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 01.02.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 01.03.2023  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20230202
+  Event date: 12.05.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 19.05.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 19.05.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 21.06.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+ 

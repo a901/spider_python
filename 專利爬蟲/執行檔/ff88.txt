@@ -1,0 +1,121 @@
+88.
+COOLING CIRCUITS FOR COOLING A COMPUTING SYSTEM AND FLOW CONTROL METHODS THEREOF
+EP4084594A1 (B1) • 2022-11-02 • QUANTA COMP INC
+Earliest priority: 2021-04-30 • Earliest publication: 2022-11-01
+A cooling system for a rack of servers includes a plurality of cooling circuits, where each cooling circuit is coupled to a server of the rack. Each cooling circuit includes a plurality of cooling modules arranged in parallel. Each cooling module includes a cold plate having a cooling conduit passing therethrough, and a pump fluidly coupled to the cooling conduit. The cooling circuit further includes one or more valves fluidly interconnecting the plurality of cooling modules. Each of the one or more valves, when turned on, fluidly connects the cooling conduits of any two adjacent cooling modules. The cooling system further includes a first cooling distribution manifold fluidly connected to the cooling circuit of each of the plurality of servers through an inlet pipe, and a second cooling distribution manifold fluidly connected to the cooling circuit of each of the plurality of servers through an outlet pipe.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 03.03.2023 Receipt of the translation of the claim(s)
+European patent granted 19.04.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 02.11.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220818
+  Event date: 02.11.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 30.09.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 30.09.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 14.12.2022  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: H05K 7/20 20060101AFI20221108BHEP
+  Event date: 20.12.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 20.12.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 18.01.2023  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20221221
+  Event date: 03.03.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 17.03.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 17.03.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 19.04.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 19.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 27.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602021001966 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+  Event date: 28.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+  Event date: 10.05.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG IE FG4D
+Code Expl.: +EUROPEAN PATENTS GRANTED DESIGNATING IRELAND
+  Event date: 15.05.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1562186 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20230515
+ 

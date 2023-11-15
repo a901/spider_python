@@ -1,0 +1,87 @@
+23.
+EXTENDED HEAT SINK DESIGN IN SERVER
+EP3544398A1 • 2019-09-25 • QUANTA COMP INC
+Earliest priority: 2018-03-20 • Earliest publication: 2019-09-25
+A method and structure for improving efficiency of cooling and temperature uniformity among a plurality of heat generating electronic devices arranged in rows within a housing, such as a GPU server, utilizing a single source of cooling air. The electronic devices are arranged in a plurality of rows, but the heat sinks for the last row are elevated above the heat sinks of the first row so as to occupy different positions within the cooling air stream. In some embodiments the heat sinks of the electronic devices are extended forward so as to reside near the heat sinks of the electronic devices in the first row, but in a different flow path of cooling air. In other embodiments, a thermo siphon refrigeration system is provided for the electronic devices in the last row, and may be provided for the electronic devices in the first row as well.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 08.06.2020 Application withdrawn by applicant  [2020/29]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 25.09.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.09.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 25.09.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190730
+  Event date: 13.05.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200409
+  Event date: 15.07.2020  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20200608
+  Event date: 23.08.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 12.06.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+ 

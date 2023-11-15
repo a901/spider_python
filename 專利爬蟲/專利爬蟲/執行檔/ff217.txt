@@ -1,0 +1,87 @@
+217.
+SYSTEM AND METHOD FOR EFFICIENT ENERGY DISTRIBUTION FOR SURGE POWER
+EP3739428A1 • 2020-11-18 • QUANTA COMP INC
+Earliest priority: 2019-05-13 • Earliest publication: 2020-06-30
+A system and method for providing additional power to a connected load is disclosed. The system includes a power supply unit and an energy storage unit coupled to the power supply unit. A switch has an input coupled to the power supply unit. A power output provides power to the connected load. The power output is coupled to an output of the switch and the energy storage unit. A controller is operative to provide a charging period where the switch is turned on to provide power to the power output. The controller provides a boost period where the switch is controlled via a pulse width modulation signal to connect the power supply with the energy storage unit to supply power to the load when the switch is on, and with the energy storage unit to supply power to the load when the switch is off.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 10.06.2021 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2021/43]
+Fees paid Penalty fee
+Additional fee for renewal fee
+31.07.2021 03   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 18.11.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 18.11.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 16.10.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 16.10.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 24.09.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 27.10.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210519
+ 

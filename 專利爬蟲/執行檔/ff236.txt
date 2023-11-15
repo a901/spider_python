@@ -1,0 +1,80 @@
+236.
+ORAL-AREA POSITIONING DEVICE AND METHOD
+EP3995072A1 • 2022-05-11 • QUANTA COMP INC
+Earliest priority: 2020-11-10 • Earliest publication: 2021-10-21
+An oral-area positioning device is provided in the invention. The oral-area positioning device includes a storage device, a positioning circuit and a calculation circuit. The storage device stores information corresponding to a plurality of oral areas. The positioning circuit obtains a target image from an oral-image extracting device, and obtains a first position estimation result according to the information corresponding to the plurality of oral areas and a first algorithm. The positioning device obtains a second position estimation result at least according to the information corresponding to the plurality of oral areas, a second algorithm and a reference image position of a reference image, wherein the reference image position is one of the oral areas. The calculation circuit generates a third position estimation result according to the first position estimation result and the second position estimation result.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 28.03.2022 Date on which the examining division has become responsible
+Fees paid Renewal fee
+27.01.2023 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 08.04.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 08.04.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 11.05.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220328
+  Event date: 11.05.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+ 

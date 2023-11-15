@@ -1,0 +1,108 @@
+227.
+HORIZONTAL MOTION MECHANISM IN LIMITED SPACE
+EP3499338A1 • 2019-06-19 • QUANTA COMP INC
+Earliest priority: 2017-12-18 • Earliest publication: 2018-12-01
+A method and apparatus are described for moving a tray within a confined space while the tray is bounded by a chassis. The movement of the tray is effected by a driven gear moving along a rack. A driving gear for rotating the driven gear is mounted on a handle or integral with a rotatable handle. The handle is rotatable about a pivot mounted on the chassis to provide the driving force to move the driven gear along the rack.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 16.12.2021 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2022/17]
+Fees paid Renewal fee
+10.07.2020 Renewal fee patent year 03
+05.07.2021 Renewal fee patent year 04
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 19.06.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 19.06.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.10.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.10.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190829
+  Event date: 10.06.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200512
+  Event date: 17.05.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 08.05.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 06.09.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 17.05.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 11.09.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 25.03.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 16.07.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 27.04.2022  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20211126
+ 

@@ -1,0 +1,100 @@
+128.
+SMART PLUG NODE MANAGEMENT
+EP3240237A1 • 2017-11-01 • QUANTA COMP INC
+Earliest priority: 2016-04-27 • Earliest publication: 2017-11-01
+In the maintenance of rack system, a computing device may implement a plurality of smart plugs and a communication bus in a system. A smart plug may be plugged into a server node for communication between a management node and a designated server node. The communication bus may be coupled to the smart plugs for transmitting I2C packets. A server node may be associated with a corresponding smart plug that includes a unique address on the communication bus. The smart plug may be configured to receive a message via the communication bus. The smart plug is configured to determine whether the request is addressed to a unique address associated with the smart plug. Upon determining that the message is addressed to the unique address, the smart plug may reformat the request compatible with server node port using the local address. Reformatting request may depend on types of server node ports.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 13.12.2018 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2019/17]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 01.11.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 01.11.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 03.01.2018  
+Event description: PARTY DATA CHANGED (APPLICANT DATA CHANGED OR RIGHTS OF AN APPLICATION TRANSFERRED)
+OWNER: QUANTA COMPUTER INC.
+  Event date: 04.04.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180222
+  Event date: 04.04.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 08.08.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20180705
+  Event date: 24.04.2019  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20181116
+  Event date: 29.09.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 22.03.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 06.07.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 02.03.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 29.09.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

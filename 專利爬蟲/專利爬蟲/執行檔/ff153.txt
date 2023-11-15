@@ -1,0 +1,81 @@
+153.
+METHOD FOR EXTENDING HOLD TIME OF POWER SUPPLY UNITS
+EP3082013A1 • 2016-10-19 • QUANTA COMP INC
+Earliest priority: 2015-04-15 • Earliest publication: 2016-10-16
+Various examples of the present technology provide systems and methods for monitoring an AC power to a computing system, generating a power failure signal when the AC power is determined abnormal, and cause one or more components of the computing system to be switched to a low power mode or shut down to reduce power consumption of the computing system. In particular, the various embodiments of the present technology provide a method to extend hold time of a power supply unit (PSU), thus extend power-on time of a server system during an input power interruption.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+Examination procedure 29.05.2017 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2017/43]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 19.10.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 19.10.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.10.2017  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20170420
+  Event date: 16.09.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 22.09.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 28.05.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

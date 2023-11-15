@@ -1,0 +1,97 @@
+98.
+VIRTUAL CHASSIS MANAGEMENT CONTROLLER
+EP3261420A1 • 2017-12-27 • QUANTA COMP INC
+Earliest priority: 2016-06-16 • Earliest publication: 2017-12-21
+A system for chassis management includes a plurality of motherboards of a chassis, a plurality of baseboard management controllers (BMCs), and at least one chassis level component. Each of the plurality of BMCs is associated with one of the plurality of motherboards. The plurality of BMCs are interconnected via a first communication bus. The plurality of BMCs and the at least one chassis level component are interconnected via a second communication bus. One BMC of the plurality of BMCs is configured to operate as a virtual chassis management controller (VCMC) for the chassis. The VCMC is configured to exchange data with other BMCs of the plurality of BMCs over the first communication bus and manage the at least one chassis level component over the second communication bus.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 28.12.2018 Application withdrawn by applicant  [2019/06]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 27.12.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 27.12.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 08.08.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 08.08.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180627
+  Event date: 31.10.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20180928
+  Event date: 06.02.2019  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20181228
+  Event date: 24.11.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 04.01.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 28.09.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 06.07.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 24.11.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

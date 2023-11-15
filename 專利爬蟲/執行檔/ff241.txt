@@ -1,0 +1,101 @@
+241.
+FLEXIBLE COUPLING OF PROCESSOR MODULES
+EP3629188A1 • 2020-04-01 • QUANTA COMP INC
+Earliest priority: 2018-09-26 • Earliest publication: 2020-03-26
+The present disclosure provides flexible coupling of processor modules. An exemplary computing device, according to an embodiment of the present disclosure, can include a processor module with a plurality of processors and a plurality of module output ports associated with each processor. Each of the processors can include a plurality of chip communication channels (CCCs). The CCCs can be coupled to the module output ports of a first processor and can be coupled to other processors in the plurality of processors. The present disclosure additionally provides for a local mode or cooperative mode configuration. A local mode provides for a four-way connection between four processors and a cooperative mode provides for an eight-way connection between eight processors.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 22.11.2021 Application withdrawn by applicant  [2021/52]
+Fees paid Renewal fee
+28.01.2021 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 01.04.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 01.04.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 17.06.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200507
+  Event date: 17.06.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 28.02.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 15.05.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 28.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 13.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 15.09.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210816
+  Event date: 26.11.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 29.12.2021  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20211122
+ 

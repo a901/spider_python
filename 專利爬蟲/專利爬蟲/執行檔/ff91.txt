@@ -1,0 +1,99 @@
+91.
+AN ORING FET CONTROL METHOD FOR BATTERY BACKUP SYSTEM
+EP3435516A1 • 2019-01-30 • QUANTA COMP INC
+Earliest priority: 2017-07-26 • Earliest publication: 2019-01-30
+Various examples of the present disclosure provide a high efficient battery backup (BBU) system and systems and methods for managing the BBU system through a microcontroller unit (MCU) and an ORing FET system of the BBU system. In some examples, a baseboard management controller (BMC) of a server system is used to control the MCU and the ORing FET system of the BBU system such that the BBU system can operate in multiple operating modes without a battery discharger. The operating modes of the BBU system includes, but are not limited to, a battery constant-current-charging mode, a battery constant-voltage-charging mode, a battery discharging mode, or a battery capacity calibration mode.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 25.06.2020 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2020/45]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 30.01.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 30.01.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 10.04.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190228
+  Event date: 10.04.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 22.05.2019  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20190417
+  Event date: 04.11.2020  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20200603
+  Event date: 30.12.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 02.10.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 13.04.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 08.03.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 30.12.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

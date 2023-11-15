@@ -1,0 +1,80 @@
+150.
+SYSTEM FOR DETERMINING SLOT LOCATION IN AN EQUIPMENT RACK
+EP3416466A1 • 2018-12-19 • QUANTA COMP INC
+Earliest priority: 2017-06-14 • Earliest publication: 2018-12-19
+A system to record equipment location in an equipment rack is disclosed. The system includes a rack having a plurality of slots. One of the slots holds a management switch including a plurality of ports. Each of a plurality of network devices is installed in one of the plurality of slots. Each of the plurality of network devices is connected to one of the plurality of ports of the management switch sequentially according to the slot of each of the plurality of network devices. Identification information associated with the management switch is sent to each of the plurality of network devices. Device identification data is determined for each of the plurality of network devices. Rack location information is based on the identification information associated with the management switch and the device identification data associated with each network device is stored.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+TN  
+Examination procedure 09.07.2019 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2019/48]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 19.12.2018  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 19.12.2018  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 27.11.2019  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20190620
+  Event date: 16.11.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 25.10.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

@@ -1,0 +1,106 @@
+249.
+SYSTEM AND METHOD FOR DYNAMICALLY OPTIMIZING HARDWARE FREQUENCY FOR BOOTING
+EP3370148A1 • 2018-09-05 • QUANTA COMP INC
+Earliest priority: 2017-03-02 • Earliest publication: 2018-08-01
+The present disclosure provides a system and method for dynamically optimizing an operation frequency of a server system to minimize booting time on the system. An exemplary system may comprise a frequency adjustment module, at least one internal sensor, at least one external sensor, one or more cooling components, a processor, a memory and a basic input/output system (BIOS). The frequency adjustment module can collect sensor data from the at least one internal sensor and/or the at least one external sensor. Based upon the sensor data and a thermal-frequency level table, the frequency adjustment module can determine a suitable operation frequency level for the server system to minimize booting time on the server system.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 03.08.2021 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2021/49]
+Fees paid Renewal fee
+11.07.2019 Renewal fee patent year 03
+27.05.2020 Renewal fee patent year 04
+Penalty fee
+Additional fee for renewal fee
+31.07.2021 05   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 05.09.2018  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 05.09.2018  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.11.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.11.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20181005
+  Event date: 16.10.2019  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20190916
+  Event date: 03.08.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 11.09.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 12.10.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 03.08.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 17.01.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.11.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 08.12.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210714
+ 

@@ -1,0 +1,100 @@
+43.
+TWO RACK UNIT CHASSIS AND LOW PROFILE TOOL-LESS HARD DRIVE CARRIER
+EP3244415A1 • 2017-11-15 • QUANTA COMP INC
+Earliest priority: 2016-05-09 • Earliest publication: 2017-11-09
+Provided is a two rack unit chassis and low profile tool-less hard disk drive carrier (HDD). The two rack chassis includes a plurality of HDD bays and a backplane includes a plurality of connectors corresponding to the plurality of bays, wherein each bay is configured to receive a low profile tool-less carrier. The low profile tool-less carriers each include a first latch configured to release a sidewall of the low profile tool-less carrier and receive an HDD, a second latch configured to release a lever having at least one hook at an inward end, and the lever configured to couple the at least one hook of the low profile tool-less carrier to the cutout of the corresponding bay to which the low profile tool-less carrier is inserted.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 17.04.2019 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2019/34]
+Fees paid Penalty fee
+Additional fee for renewal fee
+31.05.2019 03   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 15.11.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 15.11.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 09.05.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.05.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180328
+  Event date: 12.12.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20181108
+  Event date: 21.08.2019  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20190319
+  Event date: 13.10.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 19.07.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 09.11.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 06.04.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 13.10.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

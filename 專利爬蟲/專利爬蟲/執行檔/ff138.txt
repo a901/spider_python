@@ -1,0 +1,90 @@
+138.
+Backup battery
+EP2983062A1 • 2016-02-10 • QUANTA COMP INC
+Earliest priority: 2014-08-05 • Earliest publication: 2015-10-21
+A backup battery includes a battery cell, a storage medium, and a processor. The storage medium is configured to store a computer program. The processor is configured to execute the computer program so as to monitor the operating state of the battery cell. The processor selectively generates one or more output signals according to the operating state of the battery cell.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Examination procedure 03.11.2019 Application refused, date of legal effect [2020/11]
+Fees paid Renewal fee
+20.02.2017 Renewal fee patent year 03
+26.02.2018 Renewal fee patent year 04
+25.02.2019 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 10.02.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 10.02.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 10.02.2016  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20151208
+  Event date: 27.06.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20180528
+  Event date: 11.03.2020  
+Event description: APPLICATION REFUSED
+Effective DATE: 20191103
+  Event date: 09.02.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 07.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+  Event date: 25.05.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

@@ -1,0 +1,104 @@
+37.
+COOLING SYSTEM FOR STREAMLINED AIRFLOW
+EP3264876A1 • 2018-01-03 • QUANTA COMP INC
+Earliest priority: 2016-06-29 • Earliest publication: 2018-01-01
+A cooling system includes a fan and a system component. The fan includes a plurality of fan blades and configured to rotate in a fan direction. The system component is located downstream of the fan, and includes a cutout for passing of airflow from the fan, and a bridge spanning the cutout. The bridge includes a center section and at least one arm section extending from the center section to an edge of the cutout along a curved path offset towards the fan direction.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 04.11.2021 Despatch of communication that the application is refused, reason: substantive examination [2022/12]
+Fees paid Renewal fee
+08.05.2019 Renewal fee patent year 03
+18.03.2020 Renewal fee patent year 04
+31.03.2021 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 03.01.2018  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 03.01.2018  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 06.06.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 06.06.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180425
+  Event date: 18.03.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200217
+  Event date: 01.12.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 12.05.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 12.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 04.05.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 01.12.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 18.02.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+  Event date: 23.03.2022  
+Event description: APPLICATION REFUSED
+Effective DATE: 20211013
+ 

@@ -1,0 +1,80 @@
+90.
+Method, system, electronic device and peripheral device of communication
+EP2897034A1 • 2015-07-22 • QUANTA COMP INC
+Earliest priority: 2013-12-27 • Earliest publication: 2015-07-01
+The present invention discloses a communication system including a first peripheral device and an electronic device. The first peripheral device includes a touch-signal generator. The touch-signal generator is arranged to produce a predetermined touch-signal stream. The electronic device includes a touch-sensing device and a processing unit. The touch-sensing device is arranged to receive the predetermined touch-signal stream produced by the first peripheral device. The processing unit is configured to read the predetermined touch-signal stream.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Examination procedure 02.03.2016 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2016/31]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 22.07.2015  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20140724
+  Event date: 22.07.2015  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 22.07.2015  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 03.08.2016  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20160123
+  Event date: 21.07.2015  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 01.07.2016  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

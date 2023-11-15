@@ -1,0 +1,84 @@
+135.
+METHOD AND SYSTEM FOR COMPENSATING FOR TEMPERATURE RISE EFFECTS
+EP3690602A1 • 2020-08-05 • QUANTA COMP INC
+Earliest priority: 2019-01-30 • Earliest publication: 2020-06-16
+A system and method for detecting and compensating for temperature effects in a device having a power supply and a remote node. The system includes a power supply unit having an adjustable voltage output and a feedback circuit. The voltage output is adjusted based on the output of the feedback circuit. A power path is coupled to the power supply unit. The power path has power connectors to supply voltage from the power supply unit to a remote node. The remote node is operable to sense a voltage drop of the power path at the remote node associated with temperature effects on the power connectors. An adjustable resistor has an output coupled to the feedback circuit. A controller is coupled to the remote node and the adjustable resistor. The controller determines a resistance value to compensate for the temperature effects and sets the adjustable resistor to change the power output.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 26.02.2021 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2021/28]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 05.08.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 05.08.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 03.07.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 11.06.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 03.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 14.07.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210206
+ 

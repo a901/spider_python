@@ -1,0 +1,84 @@
+176.
+MANAGEMENT OF MULTIPLE FAN MODULES
+EP3525065A1 • 2019-08-14 • QUANTA COMP INC
+Earliest priority: 2018-02-13 • Earliest publication: 2019-07-11
+The present disclosure provides a system and method for controlling a plurality of cooling fan modules using a management controller and a multiplex switch. The multiplex switch connects the management controller to the plurality of cooling fan modules. The multiplex switch can enable the management controller to select a specific cooling fan module from the plurality of cooling fan modules. Once the specific cooling fan module is selected, the multiplex switch can connect to the specific cooling fan module, enable the management controller to monitor operating characteristics of the specific cooling fan module, and control power or current being delivered to the specific cooling fan module.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 06.03.2020 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2020/33]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 14.08.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.08.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 12.08.2020  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20200215
+  Event date: 12.07.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 10.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 12.07.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

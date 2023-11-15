@@ -1,0 +1,87 @@
+101.
+SMART BATTERY DEVICE, AND ELECTRONIC DEVICE THEREOF
+EP4123867A1 • 2023-01-25 • QUANTA COMP INC
+Earliest priority: 2021-07-19 • Earliest publication: 2022-02-11
+A battery device (100) includes a battery cell (102) and a battery protection circuit (104) The battery protection circuit includes a microcontroller (106) and a power-supply switch (108). The microcontroller (106) receives a start signal (150), a repair signal(152), and an external-power-indication signal (154) from the outside of the battery device. The power-supply switch (108) is electrically connected to the battery cell (102). The microcontroller correspondingly outputs an enable signal (130) to the power-supply switch according to the start signal and the repair signal, so that the power-supply switch disconnects the electrical connection between the battery cell and the battery protection circuit. The microcontroller correspondingly outputs a disable signal (132) to the power-supply switch according to the start signal, the repair signal, and the external-power-indication signal, so that the power-supply switch restores the electrical connection between the battery cell and the battery protection circuit.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 17.03.2023 Communication of intention to grant the patent
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 25.01.2023  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220922
+  Event date: 25.01.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 23.12.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 23.12.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 16.03.2023  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 16.03.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 12.04.2023  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20230317
+ 

@@ -1,0 +1,90 @@
+57.
+TOOTH-POSITION RECOGNITION SYSTEM
+EP3789957A1 • 2021-03-10 • QUANTA COMP INC
+Earliest priority: 2019-09-06 • Earliest publication: 2021-03-09
+A tooth-position recognition system includes an electronic device and a calculation device. The electronic device includes a first camera. The first camera is configured to capture a plurality of tooth images. The calculation device includes a second camera and a processor. The second camera is configured to capture a user image. The processor is configured to receive the tooth images, compare the corresponding position of each pixel in each tooth image to generate a depth map, and input the tooth images, the depth map, and a plurality of first tooth-region identifiers into a tooth deep-learning model. The tooth deep-learning model outputs a plurality of deep-learning probability values that are the same in number as the first tooth-region identifiers. The processor inputs the user image and the plurality of second tooth-region identifiers into a user-image deep-learning model.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 17.12.2021 Reply to a communication from the examining division
+Fees paid Renewal fee
+25.11.2021 Renewal fee patent year 03
+28.11.2022 Renewal fee patent year 04
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 10.03.2021  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 10.03.2021  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20201106
+  Event date: 10.03.2021  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 05.02.2021  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 05.02.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 19.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 22.09.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210818
+ 

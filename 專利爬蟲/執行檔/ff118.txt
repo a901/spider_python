@@ -1,0 +1,102 @@
+118.
+MODULE ASSEMBLY AND COMBINATION WITH CHASSIS AND RAIL ASSEMBLY
+EP3722920A1 • 2020-10-14 • QUANTA COMP INC
+Earliest priority: 2019-04-09 • Earliest publication: 2020-02-11
+The present disclosure is directed to a system for providing substantially 180 degrees, or more, of rotation between a sheet metal door mounted on a sheet metal sidewall of a chassis, relative to the chassis. The system includes a first and a second shaft passing through a module positioned between the door and the sidewall, whereby the door rotates about the two shafts, where the two shafts are not axially aligned. The chassis may hold sleds of a server, and the door may further comprise multiple linking modules, such that the sleds are coupled to the linking modules when the door is in a closed position, and the sleds are slid home within the chassis.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 11.11.2022 Application withdrawn by applicant  [2022/51]
+Fees paid Renewal fee
+29.07.2021 Renewal fee patent year 03
+16.08.2022 Renewal fee patent year 04
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 14.10.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.10.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 14.04.2021  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20210307
+  Event date: 14.04.2021  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.09.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 12.03.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 11.09.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 22.09.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 26.10.2022  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20220921
+  Event date: 18.11.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 21.12.2022  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20221111
+ 

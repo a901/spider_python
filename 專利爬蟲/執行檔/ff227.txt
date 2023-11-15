@@ -1,0 +1,112 @@
+227.
+REMOVABLE PSU DEDICATED TUNNEL FOR AIR FLOW MECHANISM
+EP3623903A1 • 2020-03-18 • QUANTA COMP INC
+Earliest priority: 2018-09-11 • Earliest publication: 2020-03-12
+The present disclosure provides a dedicated airflow tunnel extending directly from a front side of the chassis to a power supply unit (PSU) located near the rear side of the chassis. The dedicated airflow tunnel is removable and replaceable with airflow tunnels of different size. The dedicated airflow tunnel avoids recirculation of PSU cooling air to obtain the best thermal efficiency.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 14.06.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+24.06.2021 Renewal fee patent year 03
+20.06.2022 Renewal fee patent year 04
+28.06.2023 Renewal fee patent year 05
+European patent granted 02.08.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 18.03.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 18.03.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 14.10.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200908
+  Event date: 14.10.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.09.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 14.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 22.04.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 26.05.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210421
+  Event date: 14.02.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 28.02.2023  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 28.02.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 29.03.2023  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20230301
+  Event date: 14.06.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 30.06.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 30.06.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+ 

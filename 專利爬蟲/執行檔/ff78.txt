@@ -1,0 +1,81 @@
+78.
+CABLE PROTECTION CHAIN
+EP3512058A1 • 2019-07-17 • QUANTA COMP INC
+Earliest priority: 2018-01-12 • Earliest publication: 2019-07-17
+A protective device for a cable in the form of a plurality of interconnected links forming a chain. At least one of the links comprises a retaining element, which may be a C-shaped or an L-shaped element which completes the formation of an enclosed void into which a cable can be inserted for protection. Each link preferably incudes two opposed sidewalls connected by a bottom wall and the C-shaped or L-shaped element. When the retaining member is the L-shaped element, the L-shaped element is hingedly connected to one of the opposed sidewalls.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 07.02.2020 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2020/33]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 17.07.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 17.07.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 12.08.2020  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20200118
+  Event date: 14.06.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 10.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

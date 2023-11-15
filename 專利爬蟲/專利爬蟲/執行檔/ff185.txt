@@ -1,0 +1,101 @@
+185.
+VERTICALLY ADJUSTABLE CABLE MANAGEMENT ARM
+EP3461245A1 • 2019-03-27 • QUANTA COMP INC
+Earliest priority: 2017-09-20 • Earliest publication: 2019-03-21
+An equipment rack with a compact adjustable cable management arm is disclosed. The equipment rack includes a plurality of chassis slots arranged vertically. Each chassis slot is operable to hold at least one removable electronic device. A pair of side rails supports the plurality of chassis slots. An adjustable cable management arm is located on one end of the side rails. The adjustable cable management arm has at least a first vertical position allowing access to one of the chassis slots. The adjustable cable management arm has a second vertical position allowing access to another of the chassis slots blocked by the cable management arm when the cable management arm is in the first vertical position.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 20.10.2021 Reply to a communication from the examining division
+Fees paid Renewal fee
+31.03.2020 Renewal fee patent year 03
+16.06.2021 Renewal fee patent year 04
+31.03.2022 Renewal fee patent year 05
+31.03.2023 Renewal fee patent year 06
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 27.03.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 27.03.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 07.08.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190628
+  Event date: 07.08.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 22.02.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 18.06.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.07.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 22.02.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 21.07.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210622
+  Event date: 23.10.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

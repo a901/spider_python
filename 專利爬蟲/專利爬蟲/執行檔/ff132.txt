@@ -1,0 +1,115 @@
+132.
+Network object delivery system for personal computing device
+EP1298835A2 (A3) • 2003-04-02 • QUANTA COMP INC
+Earliest priority: 2001-09-28 • Earliest publication: 2003-04-02
+A networked object delivery system for a personal computing device includes a network, a personal computing device at least part time coupled to the network, and a service agent server at least part time coupled to the network. The personal computing device is preferably a PDA or the like, but can also include personal computers, laptop computers, notebook computers, etc. The personal computing device locally operates on a requested document with at least one downloaded application module from the network. The service agent server will download a requested document and at least one application module to the personal computing device over the network in response to a request for the document and in response to a desired action to be performed on that document.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+IE  
+IT  
+LI  
+LU  
+MC  
+NL  
+PT  
+SE  
+SK  
+TR  
+Examination procedure 18.03.2016 Minutes of oral proceedings despatched
+Fees paid Renewal fee
+04.10.2004 Renewal fee patent year 03
+30.09.2005 Renewal fee patent year 04
+02.10.2006 Renewal fee patent year 05
+01.10.2007 Renewal fee patent year 06
+30.09.2008 Renewal fee patent year 07
+30.09.2009 Renewal fee patent year 08
+30.09.2010 Renewal fee patent year 09
+30.09.2011 Renewal fee patent year 10
+01.10.2012 Renewal fee patent year 11
+30.09.2013 Renewal fee patent year 12
+29.09.2014 Renewal fee patent year 13
+29.09.2015 Renewal fee patent year 14
+Penalty fee
+Additional fee for renewal fee
+30.09.2004 03   M06   Fee paid on   04.10.2004
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 02.04.2003  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20021025
+  Event date: 02.04.2003  
+Event description: DESIGNATED CONTRACTING STATES
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LI LU MC NL PT SE SK TR
+  Event date: 02.04.2003  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: AL LT LV MK RO SI
+  Event date: 09.07.2003  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: 7H 04L 12/00 A
+  Event date: 09.07.2003  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: 7G 06F 3/00 B
+  Event date: 09.07.2003  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: 7G 06F 17/60 B
+  Event date: 09.07.2003  
+Event description: DESIGNATED CONTRACTING STATES
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LI LU MC NL PT SE SK TR
+  Event date: 09.07.2003  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: AL LT LV MK RO SI
+  Event date: 30.07.2003  
+Event description: INFORMATION ON INVENTOR PROVIDED BEFORE GRANT (CORRECTED)
+INVENTOR: LAM, BARRY
+  Event date: 30.07.2003  
+Event description: INFORMATION ON INVENTOR PROVIDED BEFORE GRANT (CORRECTED)
+INVENTOR: CHANG, TED
+  Event date: 02.04.2003  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A2
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LI LU MC NL PT SE SK TR
+  Event date: 31.03.2004  
+Event description: DESIGNATION FEES PAID
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LI LU MC NL PT SE SK TR
+  Event date: 25.01.2012  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20111222
+  Event date: 03.08.2016  
+Event description: APPLICATION REFUSED
+Effective DATE: 20160113
+  Event date: 23.05.2003  
+Event description: SEARCH REPORT DESPATCHED
+Free Format Text: ORIGINAL CODE: 0009013
+  Event date: 15.02.2003  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 01.07.2016  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+ 

@@ -1,0 +1,101 @@
+133.
+SAS AUTOMATIC ZONING MECHANISM
+EP3627307A1 • 2020-03-25 • QUANTA COMP INC
+Earliest priority: 2018-09-19 • Earliest publication: 2020-03-19
+A system and method for automatic serial-attached SCSI (SAS) zoning configuration. The SAS based architecture includes a local area network and a SAS system having a local area network port coupled to the local area network. The SAS system includes a plurality of SAS target devices, and an expander having a series of input ports and a plurality of target ports. The target ports are coupled to the SAS target devices. A management tool is coupled to the local area network. The management tool is operable to detect a cable connection between a first host device and an input port of the series of input ports. The management tool automatically configures SAS zones to assign target devices to the first host device.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 02.09.2021 Application withdrawn by applicant  [2021/41]
+Fees paid Renewal fee
+25.02.2021 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 25.03.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.03.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 06.05.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 06.05.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200330
+  Event date: 21.02.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 03.04.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 21.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 10.05.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 09.06.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210511
+  Event date: 10.09.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 13.10.2021  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20210902
+ 

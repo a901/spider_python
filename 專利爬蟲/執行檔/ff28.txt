@@ -1,0 +1,95 @@
+28.
+APPARATUS FOR CHANGING AIRFLOW IN A SERVER
+EP3742876A1 • 2020-11-25 • QUANTA COMP INC
+Earliest priority: 2019-05-21 • Earliest publication: 2020-05-12
+The present disclosure is directed to an apparatus for a server chassis. A position of the apparatus changes the airflow in the server chassis. The apparatus can be adjacent to a slot in the server chassis. The apparatus adjusts among a plurality of positions based on a height of the slot and/or a size of a computer component received at the slot. The apparatus includes a base portion and an arm. The base portion can couple with a wall of the chassis body, and the arm can include a plurality of moveable segments.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 22.03.2022 Application withdrawn by applicant  [2022/17]
+Fees paid Renewal fee
+23.09.2021 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 25.11.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 25.11.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.11.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200522
+  Event date: 23.10.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 23.10.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 23.12.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 26.01.2022  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20211222
+  Event date: 25.03.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 27.04.2022  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20220322
+ 

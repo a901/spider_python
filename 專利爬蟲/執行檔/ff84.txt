@@ -1,0 +1,84 @@
+84.
+METHODS AND APPARATUS FOR AUTHENTICATING A FIRMWARE SETTINGS INPUT FILE
+EP3608821A1 • 2020-02-12 • QUANTA COMP INC
+Earliest priority: 2018-08-08 • Earliest publication: 2020-02-12
+The present disclosure describes devices and methods that allow for authenticating a firmware settings input file. The devices and methods of the present disclosure provide for receiving a firmware settings input file and a code associated with the firmware settings input file. The firmware settings input file is configured for updating firmware settings within the computer system. The devices and methods further generate a first value based on the firmware settings input file, and decrypt the code with an encryption key to obtain a second value from the code. The devices and methods further compare the first value and the second value to authenticate the firmware settings input file based on whether the first value and second values satisfy one or more conditions. When the conditions are satisfied, the firmware within the computer system can be updated based on the firmware settings input file.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 02.09.2020 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2021/03]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 12.02.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 12.02.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 20.01.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20200813
+  Event date: 10.01.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 18.12.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 10.01.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

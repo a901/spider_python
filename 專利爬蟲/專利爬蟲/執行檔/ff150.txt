@@ -1,0 +1,91 @@
+150.
+OUT-OF-BAND NETWORK PORT STATUS DETECTION
+EP3062463A1 • 2016-08-31 • QUANTA COMP INC
+Earliest priority: 2015-02-25 • Earliest publication: 2016-08-25
+A device for out-of-band network port status detection includes a management controller (MC), a network interface controller (NIC) with a PHY and a link indicator, an electrical connection coupling the link indicator to an input pin of the MC, and at least one processor. The MC monitors a status of the link indicator and the at least one processor is configured for reporting the status of the link indicator to a user of the apparatus.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+Examination procedure 09.12.2019 Application refused, date of legal effect [2020/16]
+Fees paid Renewal fee
+11.08.2017 Renewal fee patent year 03
+16.08.2018 Renewal fee patent year 04
+15.08.2019 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 31.08.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 31.08.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 21.12.2016  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 21.12.2016  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20161112
+  Event date: 18.01.2017  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20161214
+  Event date: 15.04.2020  
+Event description: APPLICATION REFUSED
+Effective DATE: 20191209
+  Event date: 29.07.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 13.03.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+ 

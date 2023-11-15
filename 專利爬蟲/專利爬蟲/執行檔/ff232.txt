@@ -1,0 +1,126 @@
+232.
+REMOVABLE CABLE ARM BRACKET
+EP3716743A1 (B1) • 2020-09-30 • QUANTA COMP INC
+Earliest priority: 2019-03-26 • Earliest publication: 2020-06-09
+The present disclosure is directed to a removable cable arm bracket for attachment to an inner rail of a computer system. The cable arm bracket includes a spring sheet that can be biased for securing and removing the cable arm bracket from the inner rail. The spring sheet secures a projection from the inner rail within an aperture of the cable arm bracket to secure the cable arm bracket to the inner rail. Biasing of the spring sheet allows the projection to be removed from the aperture.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 01.03.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+28.09.2021 Renewal fee patent year 03
+28.09.2022 Renewal fee patent year 04
+European patent granted 05.04.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 30.09.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 30.09.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.12.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.12.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20201104
+  Event date: 28.08.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 06.11.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 28.08.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 02.11.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 02.11.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 30.11.2022  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20221103
+  Event date: 01.03.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 03.03.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 03.03.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 05.04.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 05.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 15.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1559269 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20230415
+  Event date: 14.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+  Event date: 20.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602019027132 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+ 

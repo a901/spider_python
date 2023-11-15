@@ -1,0 +1,80 @@
+254.
+METHOD AND SYSTEM FOR OPTIMIZING RACK SERVER RESOURCES
+EP4027241A1 • 2022-07-13 • QUANTA COMP INC
+Earliest priority: 2021-01-07 • Earliest publication: 2022-07-07
+A system and method for distributing tasks between computing devices in a rack. Each of the computing devices have hardware resources and is coupled to a management network. A rack management controller monitors the utilization of hardware resources by each of the computing devices. The rack management controller allocates performance of tasks, such as operating virtual machines, to some of the computing devices to maximize computing devices with substantially full hardware resource utilization. The rack management controller minimizes the allocation of tasks to computing devices with less than full hardware resource utilization. The rack management controller commands any idle computing devices to minimize power consumption.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 28.03.2022 Date on which the examining division has become responsible
+Fees paid Renewal fee
+30.03.2023 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 13.07.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220328
+  Event date: 13.07.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 10.06.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 10.06.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+ 

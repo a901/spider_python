@@ -1,0 +1,81 @@
+241.
+INSULIN-DOSAGE DETECTION DEVICE
+EP3875132A1 • 2021-09-08 • QUANTA COMP INC
+Earliest priority: 2020-03-02 • Earliest publication: 2021-09-02
+An insulin-dosage detection device is arranged on a rotation member of an insulin injection pen having an injection button. The rotation variation of the rotation member corresponds to the injection dosage of the insulin injection pen. The insulin-dosage detection device has a circuit, a detection button, and a processor. The circuit, arranged on the rotation member of the insulin injection pen, is configured to output electronic signals in response to rotation of the rotation member. The detection button is connected to the injection button. The rotation member of the insulin injection pen rotates in response to the detection button and the injection button being pressed. The circuit rotates along with the rotation member. The processor, coupled to the circuit, calculates the rotation variation of the rotation member according to a first electronic signal and a second electronic signal respectively output from the circuit before and after the rotation of the circuit.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 30.03.2022 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2022/33]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 08.09.2021  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 06.08.2021  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 06.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 15.07.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 17.08.2022  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20220310
+ 

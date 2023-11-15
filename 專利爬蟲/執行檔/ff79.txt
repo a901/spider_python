@@ -1,0 +1,100 @@
+79.
+ACOUSTICAL ATTENUATOR IN STORAGE ARRAY TO IMPROVE PERFORMANCE
+EP3401911A1 • 2018-11-14 • QUANTA COMP INC
+Earliest priority: 2017-05-09 • Earliest publication: 2018-08-11
+An apparatus is provided. The apparatus includes a plurality of flow guiding structures spatially aligned in a first row, each of the plurality of flow guiding structures comprising a fin-shape to funnel airflow at a trailing edge of each of the plurality of flow guiding structures. The apparatus also includes a plurality of flow separating structures spatially aligned in a second row interleaved between each of the plurality of flow guiding structures, each of the plurality of flow separating structures comprising a fin-shape configured to split airflow received from the plurality of flow guiding structures.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 05.08.2021 Application withdrawn by applicant  [2021/36]
+Fees paid Renewal fee
+15.08.2019 Renewal fee patent year 03
+17.08.2020 Renewal fee patent year 04
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 14.11.2018  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.11.2018  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 12.06.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190429
+  Event date: 12.06.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 12.10.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 10.05.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 12.10.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 21.05.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 23.06.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210525
+  Event date: 06.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 08.09.2021  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20210805
+ 

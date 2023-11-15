@@ -97,10 +97,10 @@ if __name__ == '__main__':
     user='k19911111'
    # current_page =  requests.get(url, params={'subreddit':'23andme','author': user, 'size': 10})
     
-    current_page =  requests.get(url, params={ #'subreddit':'23andme',
-                                              'q': 'Hokkien',   #關鍵字
+    current_page =  requests.get(url, params={ 'subreddit':'23andme',
+                                              'q': 'Guangxi',   #關鍵字
                                               'sort_type':'score' ,
-                                              'size': 100}) #Integer <= 500 最多條目數
+                                              'size': 200}) #Integer <= 500 最多條目數
    
    
    

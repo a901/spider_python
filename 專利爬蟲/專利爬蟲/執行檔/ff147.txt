@@ -1,0 +1,91 @@
+147.
+NETWORK BIOS MANAGEMENT
+EP3062216A1 • 2016-08-31 • QUANTA COMP INC
+Earliest priority: 2015-02-25 • Earliest publication: 2016-06-11
+A computer system can obtain BIOS data from a network storage by a management controller of the computer system. The computer system can emulate a BIOS memory by the management controller based on the BIOS data and initialize the computer system with the BIOS memory emulated by the management controller.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+Examination procedure 14.11.2019 Application refused, date of legal effect [2020/12]
+Fees paid Renewal fee
+17.10.2017 Renewal fee patent year 03
+30.08.2018 Renewal fee patent year 04
+15.10.2019 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 31.08.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 31.08.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 05.04.2017  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 05.04.2017  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20170228
+  Event date: 29.11.2017  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20171025
+  Event date: 18.03.2020  
+Event description: APPLICATION REFUSED
+Effective DATE: 20191114
+  Event date: 29.07.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 14.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+ 

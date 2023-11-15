@@ -1,0 +1,96 @@
+64.
+BIOS RECOVERY AND UPDATE
+EP3690653A1 • 2020-08-05 • QUANTA COMP INC
+Earliest priority: 2019-01-31 • Earliest publication: 2020-08-05
+A method and system writing a server BIOS image to a BIOS flash by a BMC is provided. The method includes receiving a Golden BIOS image within a BMC flash. The BMC flash is associated with the BMC. The method also includes determining that an active BIOS image within a BIOS flash is either a damaged BIOS image or a maliciously altered BIOS image. In response to a damaged or a maliciously altered BIOS image, the method includes overwriting the active BIOS image in the BIOS flash with the Golden BIOS.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 07.10.2021 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2022/07]
+Fees paid Penalty fee
+Additional fee for renewal fee
+31.07.2021 03   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 05.08.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 05.08.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200217
+  Event date: 05.08.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 03.07.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 03.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 07.05.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 09.06.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210506
+  Event date: 14.01.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 16.02.2022  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210917
+ 

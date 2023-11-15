@@ -1,0 +1,100 @@
+148.
+SAS/SATA HARD DISK DRIVE UPDATE VIA MANAGEMENT CONTROLLER
+EP3399401A1 • 2018-11-07 • QUANTA COMP INC
+Earliest priority: 2017-05-02 • Earliest publication: 2018-11-07
+Methods and systems of updating serial attached small computer system interface (SAS) / serial advanced technology attachment (SATA) hard disk drive (HDD) firmware (FW) using a management controller (MC) are provided. The method includes uploading the HDD FW to the MC via the local area network (LAN), breaking the HDD FW into a plurality of chunks, issuing a plurality of write commands and writing the plurality of chunks into the SAS HDD.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+TN  
+Examination procedure 06.02.2021 Application refused, date of legal effect [2021/24]
+Fees paid Renewal fee
+17.12.2019 Renewal fee patent year 03
+Penalty fee
+Additional fee for renewal fee
+31.12.2020 04   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 07.11.2018  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 07.11.2018  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 07.11.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180806
+  Event date: 22.05.2019  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20190417
+  Event date: 05.10.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 14.05.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+  Event date: 13.04.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.10.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 16.06.2021  
+Event description: APPLICATION REFUSED
+Effective DATE: 20210206
+  Event date: 05.07.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

@@ -1,0 +1,133 @@
+212.
+FLEXIBLE STACKED UP CHASSIS
+EP3509405A1 (B1) • 2019-07-10 • QUANTA COMP INC
+Earliest priority: 2018-01-05 • Earliest publication: 2019-07-10
+An adaptable chassis having an upper box chassis structure including a power supply. The upper box structure includes side walls to receive at least one component sled and registration features. A lower box structure includes side walls to receive at least one component sled. The lower box structure includes a registration feature to engage the registration feature of the first chassis structure. The lower box structure includes a power connector to obtain power from the power supply. The lower box structure may be replaced with large capacity structures when additional component sleds need to be added since the power supply resides in the upper box structure.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 25.02.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+18.11.2020 Renewal fee patent year 03
+18.11.2021 Renewal fee patent year 04
+15.11.2022 Renewal fee patent year 05
+European patent granted 05.04.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 10.07.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 10.07.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 19.02.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200109
+  Event date: 19.02.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 07.06.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 17.01.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 07.06.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 26.11.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 29.12.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20211125
+  Event date: 10.11.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 10.11.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 07.12.2022  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20221111
+  Event date: 27.02.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 03.03.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 03.03.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 05.04.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 05.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 13.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602018047984 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+  Event date: 15.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1559268 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20230415
+  Event date: 14.04.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+ 

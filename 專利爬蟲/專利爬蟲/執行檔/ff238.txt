@@ -1,0 +1,102 @@
+238.
+RADIOFREQUENCY IDENTIFICATION MANAGEMENT OF SERVER COMPONENTS
+EP3474115A1 • 2019-04-24 • QUANTA COMP INC
+Earliest priority: 2017-10-19 • Earliest publication: 2019-04-24
+Methods and apparatuses are disclosed for managing components within a server using radiofrequency communications. The methods and apparatuses disclosed employ a server having a chassis with a plurality of slots. Each slot of the plurality of slots is configured to connect a removable electronic component to the chassis. The server also includes a controller configured to manage the removable electronic components connected to the chassis. The server also includes at least one RFID reader communicatively connected to the controller. The at least one RFID reader is configured to interrogate one or more RFID tags of the removable electronic components connected to the chassis and provide information from the one or more RFID tags to the controller.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 27.11.2020 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2021/14]
+Fees paid Penalty fee
+Additional fee for renewal fee
+30.06.2020 03   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 24.04.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 24.04.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 04.12.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20191024
+  Event date: 04.12.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 29.07.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200630
+  Event date: 07.04.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20201111
+  Event date: 22.03.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 26.06.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.03.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 01.11.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 22.03.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

@@ -1,0 +1,94 @@
+187.
+THERMAL MANAGEMENT VIA VIRTUAL BMC MANAGER
+EP3627281A1 • 2020-03-25 • QUANTA COMP INC
+Earliest priority: 2018-09-21 • Earliest publication: 2020-03-25
+A method of thermal management in a computing device using a management controller is provided. The method includes obtaining, via a virtual management controller, monitoring information of a thermally sensitive component untethered to the management controller. The monitoring information can include temperature information of the thermally sensitive component. The method also includes transmitting, via the virtual management controller, the monitoring information to the management controller via a system interface of the management controller. Finally, the method includes adjusting, via the management controller, operation of a thermal management component of the computing device tethered to the management controller.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 03.03.2023 Reply to a communication from the examining division
+Fees paid Renewal fee
+23.12.2020 Renewal fee patent year 03
+28.12.2021 Renewal fee patent year 04
+22.12.2022 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 25.03.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190823
+  Event date: 25.03.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 25.03.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 21.04.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210318
+  Event date: 21.02.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 19.03.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 21.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 28.07.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

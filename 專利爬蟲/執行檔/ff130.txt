@@ -1,0 +1,127 @@
+130.
+METHOD AND SYSTEM FOR STREAMLINED SERVER DESIGN
+EP3620916A1 • 2020-03-11 • QUANTA COMP INC
+Earliest priority: 2018-09-05 • Earliest publication: 2019-11-26
+A system and method for allowing configuration of a baseboard for different types of servers is disclosed. Desired parameters and corresponding server identifications are stored in either a hardware or software straps structure in a firmware image. A board identification including a server product type is read from a memory on a baseboard. The server product type is compared the server identifications in the straps structure. The corresponding desired parameter is loaded to a baseboard component on the baseboard to perform a server function.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 14.06.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+17.12.2020 Renewal fee patent year 03
+22.12.2021 Renewal fee patent year 04
+27.01.2023 Renewal fee patent year 05
+European patent granted 19.07.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 11.03.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.03.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 26.08.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200716
+  Event date: 26.08.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 23.04.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 24.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 07.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 07.02.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 26.05.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210428
+  Event date: 20.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R079
+Code Expl.: AMENDMENT OF IPC MAIN CLASS
+Free Format Text: PREVIOUS MAIN CLASS: G06F0009440000
+IPC CLASSIFICATION: G06F0009440100
+  Event date: 29.03.2023  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: G06F 9/4401 20180101AFI20230220BHEP
+  Event date: 02.04.2023  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 02.04.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 03.05.2023  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20230403
+  Event date: 14.06.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 16.06.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 16.06.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 20.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R079 602019032841 DE
+Code Expl.: AMENDMENT OF IPC MAIN CLASS
+Free Format Text: PREVIOUS MAIN CLASS: G06F0009440000
+IPC CLASSIFICATION: G06F0009440100
+ 

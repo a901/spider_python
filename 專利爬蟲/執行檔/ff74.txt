@@ -1,0 +1,94 @@
+74.
+FLEXIBLE INTERCONNECT PORT CONNECTION
+EP3588320A1 • 2020-01-01 • QUANTA COMP INC
+Earliest priority: 2018-06-25 • Earliest publication: 2019-11-26
+A computing device can flexibly connect bidirectional processor interconnect ports (BPIPs). An exemplary computing device includes a motherboard structure, a first processor, a second processor, and a plurality of connectors disposed on the motherboard structure. The first processor and the second processor can each have at least three BPIPs. A first and second of BPIPs of the first processor can be connected to a first and second BPIPs of the second processor. A third BPIP of the first processor and a third BPIP of the second processor can be connected to a first one and a second one of the plurality of connectors. The plurality of connectors can be connected to a computing card. In some examples, the computing device includes a switching element to selectively couple the connectors to any other element in the computing device.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 05.08.2021 Reply to a communication from the examining division
+Fees paid Renewal fee
+25.11.2020 Renewal fee patent year 03
+18.10.2021 Renewal fee patent year 04
+11.11.2022 Renewal fee patent year 05
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 01.01.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 01.01.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 01.01.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190916
+  Event date: 28.04.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210330
+  Event date: 05.12.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 26.03.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.12.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 06.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

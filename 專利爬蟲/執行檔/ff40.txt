@@ -1,0 +1,78 @@
+40.
+RETRIEVING CONSOLE MESSAGES AFTER DEVICE FAILURE
+EP3015985A1 • 2016-05-04 • QUANTA COMP INC
+Earliest priority: 2014-10-27 • Earliest publication: 2015-12-11
+A service controller (114) of a computing device (102) can store console messages so that an external management device (108) can retrieve the console messages after a malfunction or crash of the computing device. For example, the service controller (114) can be configured to redirect serial output (e.g., console messages, system log messages, system error message, etc.) to a network interface controller (214) for transmission over a network connection. The service controller (114) can be configured to store the console messages in non-volatile memory of the service controller. The service controller (114) can receive a request for the stored console messages and transmit the stored console messages to an external device (108).
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+Examination procedure 14.12.2016 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2017/18]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 04.05.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 04.05.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 03.05.2017  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20161105
+  Event date: 03.05.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 31.03.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

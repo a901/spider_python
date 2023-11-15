@@ -1,0 +1,78 @@
+213.
+IMAGE POSITIONING DEVICE AND METHOD
+EP4089646A1 • 2022-11-16 • QUANTA COMP INC
+Earliest priority: 2021-05-12 • Earliest publication: 2022-07-21
+An image positioning device is provided in the invention. The image positioning device includes a calculation circuit and a positioning circuit. The calculation circuit obtains a plurality of images from an image capturing device and classifies the images into a plurality of main groups based on a first algorithm, wherein each main group corresponds to a different area and the calculation circuit classifies the images of each main group into a plurality of sub-groups based on a feature of each image of each main group and a clustering algorithm. The positioning circuit is coupled to the calculation circuit. The positioning circuit positions each sub-group in the area corresponding to each main group based on the relative position relationship between each sub-group of each main group.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 25.03.2022 Date on which the examining division has become responsible
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 16.11.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220325
+  Event date: 16.11.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 14.10.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 14.10.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+ 

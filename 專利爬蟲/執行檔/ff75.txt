@@ -1,0 +1,99 @@
+75.
+LOOP SHAPED RADIATION REDUCTION FILTER FOR HIGH SPEED DIFFERENTIAL SIGNAL TRACE
+EP3706235A1 • 2020-09-09 • QUANTA COMP INC
+Earliest priority: 2019-03-04 • Earliest publication: 2020-09-09
+A high speed circuit and a method for fabricating the same is disclosed. The high speed circuit has a printed circuit board. A pair of first and second differential traces are formed on a first surface of the printed circuit board. The differential traces carry an electrical signal. A partial loop extends through the printed circuit board. The partial loop includes first and second end slots under the first and second differential traces. The partial loop includes a pair of side slots substantially parallel to the differential traces. An anchor member connects the printed circuit board to an island formed by the first and second end slots and side slots, and forms a gap in one of the end slots or side slots. The length of the side slots and the length of the gap are selected to reduce a target common mode frequency from the electrical signal.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 29.06.2021 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2021/45]
+Fees paid Penalty fee
+Additional fee for renewal fee
+31.05.2021 03   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 09.09.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 09.09.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200415
+  Event date: 09.09.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 24.02.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210126
+  Event date: 07.08.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 22.01.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 07.08.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 27.01.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 08.10.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 10.11.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210608
+ 

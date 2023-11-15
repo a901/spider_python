@@ -1,0 +1,78 @@
+143.
+LOGGING MESSAGES IN A BASEBOARD MANAGEMENT CONTROLLER USING A CO-PROCESSOR
+EP4187375A1 • 2023-05-31 • QUANTA COMP INC
+Earliest priority: 2021-11-24 • Earliest publication: 2023-05-25
+Embodiments of this disclosure are directed towards a method of logging messages in a baseboard management controller (BMC) system. The method includes powering on a processing chip of the BMC system, wherein the processing chip has a main processor and a co-processor that is communicatively coupled to a non-transitory processor-readable memory device and snooping interface. The method further includes booting up the co-processor, and initiating a storage portion of the non-transitory processor-readable memory device the snooping interface. The method further includes triggering a boot-up of the main processor, and receiving, via the snooping interface, the messages redirected from a communication interface of the BMC system.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 23.06.2023 Reply to a communication from the examining division
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 28.04.2023  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 28.04.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 31.05.2023  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20221129
+  Event date: 31.05.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+ 

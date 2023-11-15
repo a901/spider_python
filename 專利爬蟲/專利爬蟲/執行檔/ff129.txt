@@ -1,0 +1,78 @@
+129.
+SERIAL OUTPUT REDIRECTION USING HTTP
+EP3021548A1 • 2016-05-18 • QUANTA COMP INC
+Earliest priority: 2014-11-14 • Earliest publication: 2016-03-08
+A service controller (206) on a computing device (202) can be configured to redirect serial output over a network using HTTP. For example, the service controller (206) can be configured with a web server (304) that can receive the serial output and stream the serial output to a web browser (216) over an HTTP connection. In some implementations, the HTTP connection can be a WebSocket connection, as defined by the HTML5 specification. In some implementations, a proxy server (302) can be configured with a web server (304) that can receive serial over LAN (SOL) output from multiple servers and stream the SOL to a web browser (216) on a client device (214).
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+Examination procedure 16.01.2017 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2017/23]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 18.05.2016  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 18.05.2016  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 07.06.2017  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20161119
+  Event date: 17.05.2016  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 15.06.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

@@ -1,0 +1,334 @@
+[觀點] 續談歐洲人的基因來源
+時間<span class="article-meta-value">Tue Mar 21 14:20:23 2023
+
+
+
+
+
+由於我之前在本版上寫了一篇文章:
+
+<a href="https://www.ptt.cc/bbs/historia/M.1673084494.A.627.html" target="_blank" rel="noreferrer noopener nofollow">https://www.ptt.cc/bbs/historia/M.1673084494.A.627.html
+
+
+該文的內容有一些不夠準確的地方
+
+
+故而再寫一篇文章，以不同的視角，探討歐洲人的基因來源，補充與修正前文的不足之處
+
+
+
+
+
+
+
+
+
+一. 正文
+
+
+
+在我寫的前一篇文章中，有提到，歐洲人主要來自幾波人的混合
+
+
+第一波是 歐洲狩獵採集者 (含 西歐狩獵採集者 與 東歐狩獵採集者)，
+
+至少在距今一萬~兩萬年前已進入歐洲
+
+
+第二波是 新石器歐洲農夫， 在距今五千~一萬年前從土耳其進入歐洲
+
+
+第三波是 原始印歐語人群，在距今約四千~六千年前散布到整個歐洲
+
+
+
+但這樣的敘述，其實是有點不夠準確的，
+
+因為這會暗示歐洲人是來自這幾波人均勻的混合
+
+儘管實際的情況可能會更為複雜
+
+
+
+
+首先先來看現代歐洲人的Y染色體組成:
+
+
+<a href="https://i.imgur.com/mEIUGN1.jpg" target="_blank" rel="noreferrer noopener nofollow">https://i.imgur.com/mEIUGN1.jpg
+
+
+<img src="https://cache.ptt.cc/c/https/i.imgur.com/mEIUGN1l.jpg?e=1681089616&amp;s=LYRFLaDcKl8De4h0ReQoiA" alt="" loading="lazy" />
+
+
+可以看出，歐洲人主流的Y染色體有幾支:
+
+
+R1a (主要集中在東歐)
+
+R1b (主要集中在西歐)
+
+I1  (主要聚集在北歐與西歐)
+
+I2  (主要聚集在東歐)
+
+J (主要聚集在南歐)
+
+E (主要聚集在南歐)
+
+G
+
+T
+
+N (主要聚集在東北歐)
+
+
+這幾支中，占比最高的是 R1a 與 R1b ， 分別集中在東歐與西歐
+
+
+
+關於歐洲人的 R1a 與 R1b的來源，
+
+早期的學術研究，提出了很多不實的傳聞 或 有誤導性的說法
+
+包含認為 R 可能與 早期的狩獵採集者有關， 或認為 R1b 是新石器歐洲農夫帶進來的
+
+但隨著 研究的日益深入，過去的一些論點，漸漸站不住腳，被新的研究給推翻
+
+
+
+最晚近的研究，幾乎可以推斷出
+
+歐洲人的R1a 與 R1b，絕大多數來自 原始印歐語人群
+
+
+
+R1a 與 R1b 雖然是共祖時間幾萬年的支系
+
+但歐洲人的 R1a 與 R1b
+
+絕大多數，分別聚集在共祖時間僅 5000~6000年的兩個支系
+
+
+R-M417 (R1a的下游)  與   R-M269 (R1b的下游)
+
+
+這兩個支系形成的時間，正好與原始印歐語人群形成的時間重合
+
+
+當然，並不是說歐洲人的 R 與 早期的狩獵採集者沒有關係
+
+因為原始印歐語人群，本身便部分源於 東歐狩獵採集者
+
+所以原始印歐語人群的 R ，大概率也是來自 東歐狩獵採集者
+
+
+
+儘管如此，仍然不能說歐洲人的R ，是來自歐洲各地早期狩獵採集者的均勻貢獻
+
+因為只有演變成原始印歐語人群的這一支產生了大量的父系後代
+
+
+
+
+根據英語維基百科的說法:
+
+
+R-M269 had formerly been dated to the Upper Paleolithic,[6] but by about 2010
+it was thought to have formed near the beginning of the Neolithic Revolution,
+about 10,000 years ago.[7][8][9] More recent archaeogenetics studies since
+2015, however, strongly suggest an origin among Eneolithic hunter-gatherers
+from eastern Europe.[4][10]
+
+
+大意: R-M269 曾被誤認為是 新石器歐洲農夫攜帶的支系，但更新的研究強烈的認定，
+
+R-M269與東歐狩獵採集者有關
+
+
+
+Balaresque et al. (2010) based on the pattern of Y-STR diversity argued for a
+single source in the Near East and introduction to Europe via Anatolia in the
+Neolithic Revolution. In this scenario, Mesolithic hunter-gatherers in Europe
+would have been nearly replaced by the incoming farmers. By contrast, Busby
+et al. (2012) could not confirm the results of Balaresque et al. (2010) and
+could not make credible estimates of the age of R-M269 based on Y-STR
+diversity.[3][11] Furthermore, more recent studies have found that the Y-DNA
+of Early European Farmers is typically haplogroup G2a.[12]
+
+
+大意: 更晚近的研究發現，新石器歐洲農夫，攜帶的Y染色體是 G2a (而不是R)
+
+
+According to a 2015 study,[4] a hunter-gatherer from Samara (dated 5640-5555
+cal BCE) belonging to haplogroup R1b1(*) was ancestral for both haplogroups
+R-M269 and R-M478. According to the authors, the occurrence of basal forms of
+R1b in eastern European hunter-gatherers provides a &#34;geographically plausible
+source&#34; for haplogroup R-M269. Subclades of R-M269, such as R-Z2103, have
+been found to be prevalent in ancient DNA found in individuals associated
+with the Yamnaya culture and related populations,[4][13] and the dispersal of
+this haplogroup is associated with the spread of so-called &#34;steppe ancestry&#34;
+and at least some of the Indo-European languages.[4][14]
+
+
+大意: R-M269的下游，被發現與Yamnaya culture 人群相關，
+
+Yamnaya culture 正是 原始印歐語人群 所來自的史前文化
+
+
+<a href="https://en.wikipedia.org/wiki/Haplogroup_R-M269" target="_blank" rel="noreferrer noopener nofollow">https://en.wikipedia.org/wiki/Haplogroup_R-M269
+
+
+
+
+
+至於 歐洲人的 I ，應該來自早期狩獵採集者的遺留
+
+
+I1 集中在北歐與西歐，I2 集中在巴爾幹半島
+
+
+儘管如此，現代歐洲人的I1 ，
+
+絕大多數聚集在共祖時間僅 4000~5000年的支系 I-M253 底下，
+
+而I2推測大多數人口大概率也聚集在某個晚近的支系底下
+
+I-M253有可能是在融入印歐語人群後，才開始爆發產生大量後代的
+
+
+
+從以上的內容，可以推斷，印歐語人群起源於今烏克蘭一帶，擴散到歐洲各地
+
+帶來的不只有語言 (印歐語系的語言)
+
+對歐洲各地土著，也產生規模頗大的基因替換
+
+
+
+<a href="https://i.imgur.com/mEIUGN1.jpg" target="_blank" rel="noreferrer noopener nofollow">https://i.imgur.com/mEIUGN1.jpg
+
+
+<img src="https://cache.ptt.cc/c/https/i.imgur.com/mEIUGN1l.jpg?e=1681089616&amp;s=LYRFLaDcKl8De4h0ReQoiA" alt="" loading="lazy" />
+
+除了 R 與 I 以外，
+
+G與T 是新石器歐洲農夫的Y染色體
+
+而J與E源自更晚近的中東農夫人群
+
+他們與第一波歐洲農夫(y染色體G) 可能不是同一波人
+
+但也是史前時代就開始流入的，不過主要聚集在南歐，沒有擴散到整個歐洲
+
+
+
+
+GeoNomad 是一個國外的youtube頻道，專門探討世界各地人群的Y染色體
+
+在他的影片中，就有整理歐洲史前考古遺址的Y染色體類型
+
+參考他的影片整理的內容，可以看出， Y染色體 G2a 從距今萬年(西元前八千年)以來
+
+開始大量從歐洲的考古遺址出現，一直大規模出現到距今三四千年前
+
+與歐洲更早期(萬年以前)的石器遺址，出現的y染色體與母系粒線體類型大不相同
+
+
+
+
+這表示
+
+新石器歐洲農夫在萬年以前，進入歐洲(尤其西歐)後，
+
+對歐洲新石器遺址的基因，產生了巨大影響，改變了早年只有狩獵採集者的格局
+
+但在距今4000~5000年後，又被原始印歐語人群在一定程度上替換掉
+
+
+
+而y染色體 J2，在距今七千年(公元前五千年)以後，開始大量在歐洲的新石器遺址出現
+
+但主要侷限在南歐一帶，沒有往更北的地區擴散
+
+J2可能是另一波來自中東的農夫人群
+
+
+
+如圖，J2在史前考古遺址的分布狀況:
+
+<a href="https://i.imgur.com/vY6WD11.png" target="_blank" rel="noreferrer noopener nofollow">https://i.imgur.com/vY6WD11.png
+
+
+<img src="https://cache.ptt.cc/c/https/i.imgur.com/vY6WD11l.png?e=1681087916&amp;s=CVUyqGYYscD9MIe5C-gCqg" alt="" loading="lazy" />
+
+
+
+而東歐人的N (在芬蘭占比超過 60%)
+
+主要來自北歐亞人群 (早期分布在西波利亞一帶的人群)
+
+屬於N 底下的 N1a -&gt; N1a1 (N-M46)
+
+
+
+
+
+
+當然，由於Y染色體容易存在嚴重的遺傳漂變現象
+
+所以用Y染色體推斷常染色體來源，是容易具有局限性的
+
+由於大量歐洲人的Y染色體，僅來自少數幾個共祖時間 4000~6000年的Y染色體下游
+
+所以不太能以此推斷早期常染色體的來源
+
+
+
+
+
+
+舉例來說
+
+
+假設在距今七千年前，有一個名為K的古人群
+
+古人群K，分別來自四個部落人群的均勻混合
+
+四個部落分別為 A B C D 部落，各部落攜帶的Y染色體分別為 A B C D (純屬舉例)
+
+所以古人群K的原始Y染色體比例分別為 25% A，25% B，25% C，25% D
+
+
+但由於遺傳漂變現象
+
+過了兩千年後，古人群K原先的男性，絕大多數都已絕後，只有一個男性有留下父系後代
+
+所有古人群K的男性，都是某一名兩千年前男性的後代，而那名男性的Y染色體剛好為A
+
+所以到了距今五千年前，古人群K的Y染色體比例為 100% A
+
+
+但這不能推斷出，古人群K的常染色體，也是100%源自A部落
+
+事實上古人群K的常染色體，仍然與兩千年一樣，
+
+25%源自A部落，25%源自B部落，25%源自C部落，25%源自D部落
+
+
+
+
+
+
+原始印歐語人群早年的來源，主要來自 東歐狩獵採集者與高加索狩獵採集者的混合
+
+後期也受新石器歐洲農夫的基因影響。
+
+
+
+
+
+
+
+
+
+--

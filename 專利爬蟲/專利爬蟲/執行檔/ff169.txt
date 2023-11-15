@@ -1,0 +1,90 @@
+169.
+METHOD AND DEVICE FOR DISTINGUISHING PLAQUE AND CALCULUS
+EP3785607A1 • 2021-03-03 • QUANTA COMP INC
+Earliest priority: 2019-08-30 • Earliest publication: 2020-09-11
+A method for distinguishing plaque and calculus is provided. The method is used in a device and includes the following steps: emitting, by a blue light-emitting diode, blue light to illuminate teeth in an oral cavity, wherein the blue light is used to generate autofluorescence of plaque and calculus on the teeth; sensing, by an image sensor, the autofluorescence of plaque and calculus; and distinguishing, by a processor, a plaque area and a calculus area on the teeth based on the autofluorescence.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 01.02.2023 Despatch of a communication from the examining division (Time limit: M04)
+Fees paid Renewal fee
+25.02.2022 Renewal fee patent year 03
+22.02.2023 Renewal fee patent year 04
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 03.03.2021  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 03.03.2021  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20201116
+  Event date: 03.03.2021  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 29.01.2021  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 29.01.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 02.02.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 08.03.2023  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20230201
+ 

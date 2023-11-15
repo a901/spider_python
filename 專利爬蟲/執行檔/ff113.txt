@@ -1,0 +1,84 @@
+113.
+OPTICAL CABLE IDENTIFICATION TOOL
+EP3614685A1 • 2020-02-26 • QUANTA COMP INC
+Earliest priority: 2018-08-20 • Earliest publication: 2020-02-20
+Systems and methods are provided for determining whether an optical cable matches a port on a switch device. The present disclosure can provide for a switch device which includes a cable identification tool. The cable identification tool can be configured to receive a port configuration table from a management device. The switch device can then obtain features of at least one cable attached to a port of the switch device. The switch device can then compare the obtained features with a table entry in the port configuration table to yield a comparison result. The table entry can correspond to the port to which the at least one cable is attached. Based on the comparison result, the switch device can generate one or more notifications. The notifications can indicate a match status of the at least one cable to the port.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 16.09.2020 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2021/07]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 26.02.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 26.02.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 17.02.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20200827
+  Event date: 24.01.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 15.01.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 24.01.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

@@ -1,0 +1,144 @@
+120.
+ARC SHAPE FRONT PANEL
+EP3422833A1 (B1) • 2019-01-02 • QUANTA COMP INC
+Earliest priority: 2017-06-30 • Earliest publication: 2019-01-02
+A faceplate of an apparatus is provided. The faceplate includes a top panel and a front panel. The top panel includes a portion angled towards a front side of the faceplate. The angled portion includes an obtuse angle. The front panel disposed on the front side of the faceplate includes a first face and a second face angled towards the front side of the faceplate. The first face and the second face both include a plurality of holes. The angled portion of the top panel, the angled first face, and the angled second face facilitate an intake/outlet area for air flow across the front side of the face plate into the plurality of holes.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL  
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 15.01.2023 Fee for publishing/printing paid
+Fees paid Renewal fee
+31.03.2020 Renewal fee patent year 03
+16.06.2021 Renewal fee patent year 04
+31.03.2022 Renewal fee patent year 05
+European patent granted 22.02.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 02.01.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 02.01.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.09.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.09.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190717
+  Event date: 18.11.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20201015
+  Event date: 30.11.2018  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 16.10.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 23.08.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 30.11.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 15.02.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 29.09.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 29.09.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 26.10.2022  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20220930
+  Event date: 16.01.2023  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 20.01.2023  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 20.01.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 22.02.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 22.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 28.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+  Event date: 09.03.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602018046341 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+  Event date: 15.03.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG IE FG4D
+Code Expl.: +EUROPEAN PATENTS GRANTED DESIGNATING IRELAND
+  Event date: 15.03.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1550351 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20230315
+  Event date: 12.06.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG LT MG9D
+Code Expl.: -INVALIDATION OF EXTENSION OF EUROPEAN PATENTS
+ 

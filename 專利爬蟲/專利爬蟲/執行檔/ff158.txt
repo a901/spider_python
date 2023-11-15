@@ -1,0 +1,106 @@
+158.
+METHOD OF DETERMINING OPERATIONAL DATA FROM NETWORK DEVICE AND RACK SYSTEM USING THE SAME
+EP3442165A1 • 2019-02-13 • QUANTA COMP INC
+Earliest priority: 2017-08-11 • Earliest publication: 2019-01-11
+What is disclosed is a system and method to use discovery packets, such as in an LLDP message, for determining operational status of a rack system. A network device is connected to the port of a switch. Operational data may be sent or received via a discovery packet to the network device. The operational data may be determined by a management agent on the network device and sent to a management controller via the discovery packet. The operational data may be determined by the management controller and sent to the network device.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+TN  
+Examination procedure 12.05.2021 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2021/37]
+Fees paid Renewal fee
+23.01.2020 Renewal fee patent year 03
+Penalty fee
+Additional fee for renewal fee
+31.01.2021 04   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 13.02.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 13.02.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 08.05.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 08.05.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190329
+  Event date: 06.11.2019  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20191008
+  Event date: 11.01.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 02.10.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 05.04.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 11.01.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 13.08.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 08.12.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 15.09.2021  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20210420
+ 

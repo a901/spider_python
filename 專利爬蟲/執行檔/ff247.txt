@@ -1,0 +1,86 @@
+247.
+SMART BATTERY DEVICE AND OPERATING METHOD THEREOF
+EP3972075A1 • 2022-03-23 • QUANTA COMP INC
+Earliest priority: 2020-09-18 • Earliest publication: 2021-11-01
+A smart battery device is provided. The smart battery device is applied to an electronic device. The smart battery device provides power for the electronic device. The smart battery device includes a battery pack, a sensing resistor, and a main management chip. The sensing resistor is configured to sense the charging and discharging of the smart battery device. The main management chip is connected to the battery pack, the sensing resistor, and the electronic device. The main management chip is configured to manage the charging and discharging of the smart battery device. When the electronic device is not turned on, if the main management chip detects a leakage event in the electronic device through the sensing resistor, the main management chip will enable the smart battery device to enter a temporary failure state, which will stop the smart battery device from dischargin
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 28.03.2022 Date on which the examining division has become responsible
+Fees paid Renewal fee
+27.01.2023 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 23.03.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 18.02.2022  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 18.02.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 02.04.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 04.05.2022  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20220328
+  Event date: 04.05.2022  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+ 

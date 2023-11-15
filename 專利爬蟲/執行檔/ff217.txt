@@ -1,0 +1,98 @@
+217.
+HIGH SPEED DIFFERENTIAL TRACE WITH REDUCED RADIATION IN RETURN PATH
+EP3490346A1 • 2019-05-29 • QUANTA COMP INC
+Earliest priority: 2017-11-24 • Earliest publication: 2019-05-29
+A high speed differential trace structure is disclosed. The differential trace structure includes a first trace 210 and a parallel second trace 212. A printed circuit board layer 202 has a top surface 204 and an opposite bottom surface 206. The traces 210, 212 are formed on the top surface 204. The structure includes a ground plane layer 208 having a top surface 220 in contact with the opposite bottom surface 206 of the circuit board. A first void section 224 is formed in the ground plane layer to one side of the first trace 210. A second void section 226 is formed in the ground plane layer to one side of the second trace 212. The length of the second void section is determined based on a target radiation frequency. A third void section 228 is formed in the ground plane layer that joins the first void section and the second void section.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 01.04.2022 Reply to a communication from the examining division
+Fees paid Renewal fee
+20.03.2020 Renewal fee patent year 03
+22.04.2021 Renewal fee patent year 04
+24.03.2022 Renewal fee patent year 05
+22.03.2023 Renewal fee patent year 06
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 29.05.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 29.05.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190410
+  Event date: 29.05.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 02.09.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200803
+  Event date: 31.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 26.04.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 26.04.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 02.11.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 08.12.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+ 

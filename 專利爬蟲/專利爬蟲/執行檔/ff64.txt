@@ -1,0 +1,101 @@
+64.
+LADDER TYPE PCB FOR HIGH LAYER COUNT GOLDEN FINGER CARD DESIGN
+EP3599799A1 • 2020-01-29 • QUANTA COMP INC
+Earliest priority: 2018-07-23 • Earliest publication: 2020-01-23
+This disclosure relates to a Golden Finger card design where the PCB edge has a first thickness, but the main body of the PCB is of increased thickness to accommodate application complexity. The increased thickness in the body portion provides greater dielectric material between traces, thereby reducing loss. By maintaining the edge of the PCB fingers at a first thickness, the use of existing connectors, such as standard PCIe connectors, is maintained. Golden Finger cards of this disclosure are used as a video and graphics card, network adapter card, audio adapter card, and television or other specialty adapter card.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 29.12.2021 Application withdrawn by applicant  [2022/06]
+Fees paid Renewal fee
+19.01.2021 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 29.01.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 29.01.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 29.07.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200621
+  Event date: 29.07.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 27.12.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 26.06.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 10.12.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 27.12.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 07.01.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 12.01.2022  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20211214
+  Event date: 09.02.2022  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20211229
+ 

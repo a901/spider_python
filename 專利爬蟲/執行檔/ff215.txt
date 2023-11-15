@@ -1,0 +1,78 @@
+215.
+METHOD AND SYSTEM FOR CONTROLLING THE BOOT CUSTOMIZATION IN A PLATFORM FIRMWARE RESILIENCE EXECUTION
+EP4174698A1 • 2023-05-03 • QUANTA COMP INC
+Earliest priority: 2021-10-28 • Earliest publication: 2023-05-02
+A method and system to ensure correct firmware image execution in a computer system. The computer system has a processor executing a basic input/output system (BIOS) and a baseboard management controller (BMC). A first flash memory device is coupled to the processor storing a BIOS firmware image and a project name. A second flash memory device is coupled to the BMC storing a BMC firmware image and the project name. A programmable logic device is coupled to the first and second flash memory devices. The programmable logic device including a non-volatile memory storing a project name. The programmable logic device is configured to execute a Platform Firmware Resilience routine to compare the project name of the BIOS firmware image and the project name of the BMC firmware image with the stored project name before starting the BMC or executing the BIOS firmware image by the processor.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 29.11.2022 Date on which the examining division has become responsible
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 03.05.2023  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20221129
+  Event date: 03.05.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 31.03.2023  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 31.03.2023  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+ 

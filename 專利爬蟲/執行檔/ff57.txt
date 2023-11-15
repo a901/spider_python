@@ -1,0 +1,80 @@
+57.
+Combinatorial mobile hotspot device and network service provision method thereof, network access device and wireless service power supply device
+EP2584863A1 • 2013-04-24 • QUANTA COMP INC
+Earliest priority: 2011-10-18 • Earliest publication: 2013-04-18
+This invention discloses a combinatorial mobile hotspot device, a network service provision method thereof, a network access device and a wireless service power supply device. The network access device has a mobile internet access ability to provide an external host machine connecting to a wide area network through the network access device when the network access device is selectively and electrically coupled to the external host machine. A mobile hotspot device is formed while the network access device is electrically coupled to the wireless service power supply device. The wireless service power supply device supplies the power to the network access device. Further, by a wireless local network transceiver, a plurality of electronic devices in the hotspot covering region are able to connect to wide area network through the wireless access point service provided by the network access device.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Examination procedure 02.12.2013 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2014/17]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 24.04.2013  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 24.04.2013  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 24.04.2013  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20120328
+  Event date: 23.04.2014  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20131025
+  Event date: 23.04.2013  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 21.03.2014  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

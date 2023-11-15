@@ -1,0 +1,178 @@
+86.
+HIGH AVAILABILITY STORAGE POOL COMPOSE MECHANISM
+EP3441868A1 (B1) • 2019-02-13 • QUANTA COMP INC
+Earliest priority: 2017-08-11 • Earliest publication: 2019-02-13
+Systems and method for automatically composing resources with redundant fabric switches to support dual path HA storage access operation in a data center are provided. A data management module can be used to determine one or more drives in the data center that are connected to fabric switches. The fabric switches have a same chassis ID. The data management module can then associate the one or more drives to a first computer system via one fabric switch of the fabric switches, and associate the one or more to a second computer system via the other one fabric switch of the two fabric switches. In response to receiving a request from a specific user, the data management module can compose suitable resources of the data center to match the request based at least upon the one or more drives, the two switches, the first computer system, and the second computer system.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT Lapse: 05.10.2022
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL Lapse: 05.10.2022
+ NO Lapse: 05.01.2023
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 29.08.2022 Receipt of the translation of the claim(s)
+Fees paid Renewal fee
+23.01.2020 Renewal fee patent year 03
+21.01.2021 Renewal fee patent year 04
+21.01.2022 Renewal fee patent year 05
+European patent granted 05.10.2022
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 13.02.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 13.02.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 24.04.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 24.04.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190319
+  Event date: 04.11.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20201001
+  Event date: 11.01.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 02.10.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 22.03.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 11.01.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 11.02.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 06.07.2022  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: G06F 3/06 20060101AFI20220530BHEP
+  Event date: 06.07.2022  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: H04L 41/0893 20220101ALI20220530BHEP
+  Event date: 06.07.2022  
+Event description: INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT
+IPC CLASSIFICATION: H04L 49/50 20220101ALI20220530BHEP
+  Event date: 06.07.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 06.07.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 03.08.2022  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20220707
+  Event date: 30.08.2022  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 02.09.2022  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 02.09.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 05.10.2022  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 05.10.2022  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 15.10.2022  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1523156 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20221015
+  Event date: 14.10.2022  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+  Event date: 20.10.2022  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602018041314 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+  Event date: 26.10.2022  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG IE FG4D
+Code Expl.: +EUROPEAN PATENTS GRANTED DESIGNATING IRELAND
+  Event date: 25.01.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG LT MG9D
+Code Expl.: -INVALIDATION OF EXTENSION OF EUROPEAN PATENTS
+  Event date: 31.01.2023  
+Event description: ANNUAL FEE PAID TO NATIONAL OFFICE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]
+Ref Country Code: FR
+Payment DATE: 20221208
+Year of Fee Payment: 06
+  Event date: 31.01.2023  
+Event description: ANNUAL FEE PAID TO NATIONAL OFFICE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]
+Ref Country Code: GB
+Payment DATE: 20221201
+Year of Fee Payment: 06
+  Event date: 08.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG NL MP
+Code Expl.: -PATENT INVALID IN THE NETHERLANDS AS NO TRANSLATION HAS BEEN FILED
+Effective DATE: 20221005
+  Event date: 15.03.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT MK05 1523156 AT T
+Code Expl.: -DELETION ACC. TO PAR. 5 (WITHDRAWAL OF THE TRANSLATION OF THE EP PATENT)
+Effective DATE: 20221005
+  Event date: 31.03.2023  
+Event description: LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]
+Ref Country Code: NL
+Free Format Text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT
+Effective DATE: 20221005
+ 

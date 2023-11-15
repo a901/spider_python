@@ -1,0 +1,107 @@
+215.
+COMPUTER SYSTEM FOR PRESERVING DATA IN MEMORY MODULES AND COMPUTER-IMPLEMENTED METHOD USING THE SAME
+EP3518074A1 • 2019-07-31 • QUANTA COMP INC
+Earliest priority: 2018-01-30 • Earliest publication: 2019-07-31
+Systems and methods are provided for preserving data in memory modules of a computer system. An exemplary method can detect that a software preservation process is needed for a computer system, and thereafter performs the software preservation process. The software preservation process can begin by detecting the initiation of a reduced power mode in a computer system. A syncing process of data contents can then be initiated in a processing unit of the computer system. Next, the computer system can automatically save data contents of a memory module. The software preservation process is completed by turning off a power supply unit of the computer system.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states KH  
+MA  
+MD  
+TN  
+Examination procedure 16.09.2021 Application refused, date of legal effect [2022/03]
+Fees paid Renewal fee
+21.08.2020 Renewal fee patent year 03
+Penalty fee
+Additional fee for renewal fee
+31.08.2021 04   M06   Not yet paid
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 31.07.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 31.07.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.09.2019  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.09.2019  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20190801
+  Event date: 22.04.2020  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20200324
+  Event date: 28.06.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 20.03.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 09.08.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 28.06.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 17.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 17.12.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+  Event date: 19.01.2022  
+Event description: APPLICATION REFUSED
+Effective DATE: 20210916
+ 

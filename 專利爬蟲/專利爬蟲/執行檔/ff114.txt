@@ -1,0 +1,83 @@
+114.
+ROLE-BASED AUTOMATIC CONFIGURATION SYSTEM AND METHOD FOR ETHERNET SWITCHES
+EP3461089A1 • 2019-03-27 • QUANTA COMP INC
+Earliest priority: 2017-09-20 • Earliest publication: 2019-03-21
+A method and system to automatically configure a port on an Ethernet switch is disclosed. An Ethernet switch including a port connectable to a node is provided. A system node is coupled to the port of the Ethernet switch. The node sends a discovery packet to the Ethernet switch. The discovery packet includes role identity information of the node. The Ethernet switch determines whether the role identity information is matched with a role identification. The Ethernet switch configures the port from configuration data associated with the role identification.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+TN  
+Examination procedure 15.10.2019 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2020/11]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 27.03.2019  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 27.03.2019  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 11.03.2020  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20190928
+  Event date: 22.02.2019  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 07.02.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 22.02.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

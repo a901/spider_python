@@ -1,0 +1,150 @@
+29.
+MODULAR BRIDGE ARRAY FOR BRIDGING ELECTRONIC COMPONENTS
+EP3618591A1 (B1) • 2020-03-04 • QUANTA COMP INC
+Earliest priority: 2018-08-27 • Earliest publication: 2020-02-27
+A bridge array for connecting electronic components within a housing includes an array bracket and a plurality of connection modules coupled to the array bracket. Each connection module includes a first electrical connector configured to receive a first electronic component, and a second electrical connector configured to receive a second electronic component; thereby physically and electrically connecting the first electronic component and the second electronic component of each connection module. The array bracket includes a first electrical port electrically connected to the first electrical connector of each connection module. The first electrical port provides a common connection to the first electronic component of each connection module. The array bracket includes a second electrical port electrically connected to the second electrical connector of each connection module. The second electrical port provides a common connection to the second electronic component of each connection module.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+ AT  
+ BE  
+ BG  
+ CH  
+CY  
+ CZ  
+ DE  
+ DK  
+ EE  
+ ES  
+ FI  
+ FR  
+ GB  
+ GR  
+ HR  
+ HU  
+ IE  
+ IS  
+ IT  
+ LI  
+ LT  
+ LU  
+LV  
+ MC  
+ MK  
+ MT  
+ NL Lapse: 18.01.2023
+ NO  
+ PL  
+ PT  
+ RO  
+ RS  
+ SE  
+ SI  
+ SK  
+ SM  
+ TR  
+Examination procedure 13.12.2022 Fee for publishing/printing paid
+Fees paid Renewal fee
+24.06.2021 Renewal fee patent year 03
+20.06.2022 Renewal fee patent year 04
+European patent granted 18.01.2023
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 04.03.2020  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 04.03.2020  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 12.08.2020  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20200702
+  Event date: 12.08.2020  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 31.01.2020  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 10.07.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 31.01.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+  Event date: 17.09.2021  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 20.10.2021  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20210920
+  Event date: 28.09.2022  
+Event description: DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR1
+  Event date: 28.09.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: GRANT OF PATENT IS INTENDED
+  Event date: 26.10.2022  
+Event description: INTENTION TO GRANT ANNOUNCED
+Effective DATE: 20220929
+  Event date: 13.12.2022  
+Event description: GRANT FEE PAID
+Free Format Text: ORIGINAL CODE: EPIDOSNIGR3
+  Event date: 16.12.2022  
+Event description: (EXPECTED) GRANT
+Free Format Text: ORIGINAL CODE: 0009210
+  Event date: 16.12.2022  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE PATENT HAS BEEN GRANTED
+  Event date: 18.01.2023  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: B1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 18.01.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG GB FG4D
+Code Expl.: +EUROPEAN PATENT GRANTED
+  Event date: 26.01.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG DE R096 602019024480 DE
+Code Expl.: +DPMA PUBLICATION OF MENTIONED EP PATENT GRANT
+  Event date: 31.01.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG CH EP
+Code Expl.: +EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI
+  Event date: 15.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG IE FG4D
+Code Expl.: +EUROPEAN PATENTS GRANTED DESIGNATING IRELAND
+  Event date: 15.02.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT REF 1545345 AT T
+Code Expl.: +REFERENCE TO AT NUMBER (EP PATENT VALIDATED IN AUSTRIA)
+Effective DATE: 20230215
+  Event date: 10.05.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG LT MG9D
+Code Expl.: -INVALIDATION OF EXTENSION OF EUROPEAN PATENTS
+  Event date: 24.05.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG NL MP
+Code Expl.: -PATENT INVALID IN THE NETHERLANDS AS NO TRANSLATION HAS BEEN FILED
+Effective DATE: 20230118
+  Event date: 15.06.2023  
+Event description: REFERENCE TO A NATIONAL CODE
+Event code: REG AT MK05 1545345 AT T
+Code Expl.: -DELETION ACC. TO PAR. 5 (WITHDRAWAL OF THE TRANSLATION OF THE EP PATENT)
+Effective DATE: 20230118
+ 

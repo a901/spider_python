@@ -101,6 +101,9 @@ url='https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7001%E4%B8%8A' #�
 
 url='https://zh.wikisource.org/wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7001' #北史
 
+
+url='https://zh.wikisource.org/wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7041' #通典
+
 #https://api.pushshift.io/reddit/search/submission
 
 fn=0
@@ -108,7 +111,7 @@ print('\n\n取得今日維基文庫之文章')
 
 use=''
 
-for i in range(185):
+for i in range(285):
     
   
    # current_page = get_web_page(URL + '')
@@ -142,8 +145,10 @@ for i in range(185):
     context=get_context(p)   
    
     
-    find=context.split('閩') # 搜尋字彙   
-    find2=context.split('閩本') # 搜尋字彙   
+    find=context.split('諡') # 搜尋字彙   
+    find2=context.split('jskjfor') # 搜尋字彙   
+    
+    
     num2=0
     num2=len(find2)-1
     num=len(find)-1-num2

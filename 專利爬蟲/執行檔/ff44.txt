@@ -1,0 +1,82 @@
+44.
+OPTIMIZED AND INTELLIGENT FAN CONTROL MECHANISM INSIDE RACK SYSTEM
+EP3209106A1 • 2017-08-23 • QUANTA COMP INC
+Earliest priority: 2016-02-22 • Earliest publication: 2017-08-23
+Disclosed are a system, method, and computer-readable medium for optimizing a fan control system inside a rack system. In at least one example embodiment, the system can include a rack server with a plurality of chassis each having at least one node, each of the nodes including at least one adjustable air vent and configured for adjusting the at least one adjustable air vent based on an air flow requirement of the node. The system can further include a plurality of fans, where the plurality of fans are configured to operate based on a control signal. The system also can comprise a fan control logic board, wherein the fan control logic board is configured to receive from each node in the plurality of chassis the air flow requirements and based on the plurality of air flow requirements generate and transmit the control signal to the plurality of fans.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 06.04.2018 Despatch of communication that the application is deemed to be withdrawn, reason: examination fee not paid in time  [2018/34]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 23.08.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 23.08.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 22.08.2018  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20180224
+  Event date: 21.07.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 20.07.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+  Event date: 21.07.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

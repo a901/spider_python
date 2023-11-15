@@ -1,0 +1,90 @@
+98.
+VIRTUALIZED RACK MANAGEMENT MODULES
+EP3232333A1 • 2017-10-18 • QUANTA COMP INC
+Earliest priority: 2016-04-11 • Earliest publication: 2017-10-12
+Systems, methods, and computer-readable media for managing nodes through virtual rack management modules. A system can have a first rack that includes a first top-of-rack (ToR) switch and a first group of nodes. The first ToR switch can be connected to the first group of nodes. The system can also have a second rack that includes a second ToR switch and a second group of nodes. The second ToR switch can be connected to the second group of nodes, and the second ToR switch can be connected to the first ToR switch. Furthermore, the system can include a rack management node that executes a hypervisor. The hypervisor can run a first virtual rack management module (vRMM) and a second vRMM. The first vRMM and the second vRMM can manage the first group of nodes and the second group of nodes, respectively.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 19.12.2019 Application refused, date of legal effect [2020/18]
+Fees paid Renewal fee
+27.03.2019 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 18.10.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 18.10.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 25.04.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 25.04.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180319
+  Event date: 05.09.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20180802
+  Event date: 29.04.2020  
+Event description: APPLICATION REFUSED
+Effective DATE: 20191219
+  Event date: 15.09.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 27.03.2020  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN REFUSED
+ 

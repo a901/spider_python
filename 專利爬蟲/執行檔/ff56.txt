@@ -1,0 +1,75 @@
+56.
+Method and apparatus for a flexible peripheral access router
+EP1331762A1 • 2003-07-30 • QUANTA COMP INC
+Earliest priority: 2002-01-25 • Earliest publication: 2003-07-30
+The present invention provides a method for a local area network router (38), that allows communication between a number of remotely located users (10), and a plurality of peripheral devices (44-58) connected to the local area network router (38). Users may access the local area network using wireless devices or the Internet (42). The peripheral devices, which may include a wide variety of multi-media storage, playback, printing, or other functions, are connected to the router via local interfaces, which communicate with the peripheral devices via established protocols. Each of the peripheral devices (44-58) is provided with an IP address (86), which facilitates direct communication of the users (10) with the peripheral devices and permits direct communication with the devices over the Internet (42). Data packets destined for the IP address (86) of a peripheral device (78-84) are routed through the local interface (68-74), which converts the data utilizing compatible communication protocols for the target peripheral device (78-84).
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HU  
+IE  
+IT  
+LI  
+LU  
+MC  
+NL  
+PT  
+SE  
+SI  
+SK  
+TR  
+Examination procedure 10.06.2005 Despatch of communication that the application is deemed to be withdrawn, reason: reply to the communication from the examining division not received in time  [2005/45]
+Fees paid Renewal fee
+31.01.2005 Renewal fee patent year 03
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 30.07.2003  
+Event description: DESIGNATED CONTRACTING STATES
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HU IE IT LI LU MC NL PT SE SI SK TR
+  Event date: 30.07.2003  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: AL LT LV MK RO
+  Event date: 03.03.2004  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20031222
+  Event date: 14.04.2004  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20040227
+  Event date: 21.04.2004  
+Event description: DESIGNATION FEES PAID
+Designated State(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HU IE IT LI LU MC NL PT SE SI SK TR
+  Event date: 09.11.2005  
+Event description: APPLICATION DEEMED TO BE WITHDRAWN
+Effective DATE: 20050510
+  Event date: 13.06.2003  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 23.09.2005  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+ 

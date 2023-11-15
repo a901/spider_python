@@ -1,0 +1,97 @@
+143.
+SYSTEM AND METHOD FOR SMART POWER CLAMPING OF A REDUNDANT POWER SUPPLY
+EP3226103A1 • 2017-10-04 • QUANTA COMP INC
+Earliest priority: 2016-04-01 • Earliest publication: 2017-06-21
+Systems, methods, and non-transitory computer-readable storage media for smart power clamping of a redundant power supply. A system configured according to this disclosure can measure, at a baseboard management controller, a system power consumption which indicates total power being delivered by a first power supply unit and a second power supply unit. The system can determine that the system power consumption exceeds a system power consumption capacity and, in response to the determination, communicate a power clamping signal to a processor, resulting in a reduced system power consumption. The system can further identify that the reduced system power consumption exceeds the system power consumption capacity and initiate a hardware throttling of at least one of the first power supply unit and the second power supply unit.
+
+-----now-----
+
+|
+Refine search
+|
+ST36
+|
+Espacenet
+|
+Submit observations
+|
+Report error
+Print
+|
+Designated contracting states AL  
+AT  
+BE  
+BG  
+CH  
+CY  
+CZ  
+DE  
+DK  
+EE  
+ES  
+FI  
+FR  
+GB  
+GR  
+HR  
+HU  
+IE  
+IS  
+IT  
+LI  
+LT  
+LU  
+LV  
+MC  
+MK  
+MT  
+NL  
+NO  
+PL  
+PT  
+RO  
+RS  
+SE  
+SI  
+SK  
+SM  
+TR  
+Validation states MA  
+MD  
+Examination procedure 01.02.2019 Application withdrawn by applicant  [2019/11]
+INPADOC data   Tooltip The EPO does not accept any responsibility for the accuracy of legal status data relating to the post-grant phase, including but not limited to their completeness and fitness for specific purposes, nor can it guarantee that such data are up to date. For authoritative information, please refer to the relevant national patent authority.
+Event date: 04.10.2017  
+Event description: REQUEST FOR EXTENSION OF THE EUROPEAN PATENT
+Countries concerned: BA ME
+  Event date: 04.10.2017  
+Event description: DESIGNATED CONTRACTING STATES
+Kind Code of Ref Document: A1
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 16.05.2018  
+Event description: DESIGNATED CONTRACTING STATES (CORRECTED)
+Designated State(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+  Event date: 16.05.2018  
+Event description: REQUEST FOR EXAMINATION FILED
+Effective DATE: 20180404
+  Event date: 14.11.2018  
+Event description: FIRST EXAMINATION REPORT DESPATCHED
+Effective DATE: 20181010
+  Event date: 13.03.2019  
+Event description: APPLICATION WITHDRAWN
+Effective DATE: 20190201
+  Event date: 01.09.2017  
+Event description: PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE
+Free Format Text: ORIGINAL CODE: 0009012
+  Event date: 08.02.2019  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+  Event date: 12.10.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: EXAMINATION IS IN PROGRESS
+  Event date: 13.04.2018  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+  Event date: 01.09.2017  
+Event description: INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT
+Free Format Text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+ 

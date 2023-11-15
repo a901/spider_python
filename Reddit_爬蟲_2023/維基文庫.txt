@@ -1,36 +1,120 @@
 
 
 
-title=北史/卷035 - 維基文庫，自由的圖書館
+title=通典/卷041 - 維基文庫，自由的圖書館
+
+詞彙出現次數=8
+
+https://zh.wikisource.org/wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7041
+
+
+title=通典/卷047 - 維基文庫，自由的圖書館
+
+詞彙出現次數=3
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7047
+
+
+title=通典/卷048 - 維基文庫，自由的圖書館
+
+詞彙出現次數=6
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7048
+
+
+title=通典/卷055 - 維基文庫，自由的圖書館
 
 詞彙出現次數=1
 
-https://zh.wikisource.org//wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7035
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7055
 
 
-title=北史/卷041 - 維基文庫，自由的圖書館
+title=通典/卷072 - 維基文庫，自由的圖書館
 
-詞彙出現次數=1
+詞彙出現次數=14
 
-https://zh.wikisource.org//wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7041
-
-
-title=北史/卷060 - 維基文庫，自由的圖書館
-
-詞彙出現次數=1
-
-https://zh.wikisource.org//wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7060
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7072
 
 
-title=北史/卷076 - 維基文庫，自由的圖書館
+title=通典/卷079 - 維基文庫，自由的圖書館
 
-詞彙出現次數=1
+詞彙出現次數=2
 
-https://zh.wikisource.org//wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7076
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7079
 
 
-title=北史/卷100 - 維基文庫，自由的圖書館
+title=通典/卷082 - 維基文庫，自由的圖書館
 
 詞彙出現次數=1
 
-https://zh.wikisource.org//wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7100
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7082
+
+
+title=通典/卷086 - 維基文庫，自由的圖書館
+
+詞彙出現次數=2
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7086
+
+
+title=通典/卷093 - 維基文庫，自由的圖書館
+
+詞彙出現次數=1
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7093
+
+
+title=通典/卷104 - 維基文庫，自由的圖書館
+
+詞彙出現次數=237
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7104
+
+
+title=通典/卷105 - 維基文庫，自由的圖書館
+
+詞彙出現次數=1
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7105
+
+
+title=通典/卷121 - 維基文庫，自由的圖書館
+
+詞彙出現次數=4
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7121
+
+
+title=通典/卷135 - 維基文庫，自由的圖書館
+
+詞彙出現次數=3
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7135
+
+
+title=通典/卷138 - 維基文庫，自由的圖書館
+
+詞彙出現次數=6
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7138
+
+
+title=通典/卷146 - 維基文庫，自由的圖書館
+
+詞彙出現次數=1
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7146
+
+
+title=通典/卷195 - 維基文庫，自由的圖書館
+
+詞彙出現次數=1
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7195
+
+
+title=通典/卷197 - 維基文庫，自由的圖書館
+
+詞彙出現次數=1
+
+https://zh.wikisource.org//wiki/%E9%80%9A%E5%85%B8/%E5%8D%B7197
